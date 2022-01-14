@@ -23,7 +23,27 @@
                     <h3>Módulo 01 - Básico</h3>
                     <ul>
                         <li>
-                            <a href="exercicio.php?dir=teste&file=teste">Exercicio A </a>
+                            <a href="exercicio.php?dir=1-Basico&file=1_TipoInteiro">Tipo Inteiro</a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=1-Basico&file=2_TipoFloat">Tipo Float</a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=1-Basico&file=3_Aritmeticas">OP. Aritméticas</a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=1-Basico&file=4_TipoString">Tipo String</a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=1-Basico&file=5_TipoBoolean">Tipo Boolean</a>
+                        </li>
+
+                        <li>
+                            <a href="exercicio.php?dir=1-Basico&file=6_Conversoes">Conversões</a>
                         </li>
                     </ul>
                 </div>
